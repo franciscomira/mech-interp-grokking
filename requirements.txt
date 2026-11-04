@@ -1,4 +1,4 @@
-transformer_lens
+transformer_lens<4
 plotly
 torch
 numpy
